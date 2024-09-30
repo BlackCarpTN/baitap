@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mn1 h3{
+    color: red;
+}
+.mn1 span{
+    color: pink;
+}
+.mn1 td{
+    padding: 1.5em 5em ;
+    color: red;
+    font-weight: bold;
+}
+.mn1 th{
+    padding: 2em;
+    color: red;
+}
+.lg table{
+background-color: red;
+width: 100%;
+color: white;
+font-weight: bold;
+}
+.lg td{
+    padding: 3em 4em;
+}
+.mn2 h3{
+    color: brown;
+    padding-top: 1em;
+    padding-left: 1em;
+}
+.mn2 ul{
+    list-style: none;
+    color: red;
+    font-weight: bold;
+}
+.mn2 li{
+    padding-bottom: 1.5em;
+    position: relative;
+    bottom: 1em;
+    left: 1.5em;
+}
+.mn2 p{
+    text-align: justify;
+    line-height: 3em;
+    padding-left: 1em;
+    padding-bottom: 2em;
+    padding-right: 2em;
+}
+.mn2 li:hover{
+    color: blue;
+}
+.mn2 h4{
+    padding: 4em;
+    color: brown;
+}
+.fd table{
+    background-color: pink;
+}
+.fd h3{
+    color: brown;
+}
+.fd td{
+    color: red;
+    padding-left: 5em;
+    text-align: justify;
+    line-height: 2em;
+}
+.bt{
+    padding-right: 7em;
+}
+.dt{
+    text-align: center;
+    font-weight: bold;
+    font-size: small;
+    color: gray;
+    padding-top: 3em;
+}
+.dt span{
+    color: red;
+}
